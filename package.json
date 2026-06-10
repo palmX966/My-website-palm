@@ -1,0 +1,16 @@
+{
+  "name": "my-website-palm",
+  "version": "1.0.0",
+  "description": "PalmX — Penetration testing, AI development & testing, and software engineering",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
